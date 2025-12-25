@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "EcoAir plant on brass",
+    "price": 19.99,
+    "category": "plants",
+    "img": "Image/copperplant.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+  },
+  {
+    "id": 2,
+    "name": "HyperFresh plant on wooden vase",
+    "price": 16.50,
+    "category": "plants",
+    "img": "Image/vase-paln.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 3,
+    "name": "Curved walnut monitor stand",
+    "price": 64.80,
+    "category": "laptop-stands",
+    "img": "Image/laptopstand.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 4,
+    "name": "Armchair black in wood",
+    "price": 128.40,
+    "category": "chairs",
+    "img": "Image/chairpillo.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 5,
+    "name": "Simple black in wood chair",
+    "price": 98.99,
+    "category": "chairs",
+    "img": "Image/wood-chair.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 6,
+    "name": "Lunar Minimalism Wooden Desk",
+    "price": 144.99,
+    "category": "desks",
+    "img": "Image/desk.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 7,
+    "name": "Ergonomic Lazy Chair",
+    "price": 229.90,
+    "category": "chairs",
+    "img": "Image/lazy-chair.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 8,
+    "name": "HyperErgo Executive Chair",
+    "price": 240.00,
+    "category": "chairs",
+    "img": "Image/Extive-chair.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 9,
+    "name": "HyperErgo Executive Chair Black",
+    "price": 289.98,
+    "category": "chairs",
+    "img": "Image/chairs1.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 10,
+    "name": "HyperErgo Gaming Chair Carbon",
+    "price": 204.40,
+    "category": "chairs",
+    "img": "Image/Chair-carbon.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 11,
+    "name": "HyperLight Industrial Desk Lamp",
+    "price": 80.25,
+    "category": "lamps",
+    "img": "Image/light-lamp.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 12,
+    "name": "Iregn Black Gloss Set",
+    "price": 160.20,
+    "category": "sets",
+    "img": "Image/gloss-set.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 13,
+    "name": "Leather Mouse Pad",
+    "price": 30.50,
+    "category": "mouse-pads",
+    "img": "Image/Mouse-pad.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 14,
+    "name": "Walnut Kayyu Cabinet",
+    "price": 100.50,
+    "category": "cabinets",
+    "img": "Image/kayyiu-cabinet.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 15,
+    "name": "Wooden Essential Gadget Cabinet",
+    "price": 59.80,
+    "category": "cabinets",
+    "img": "Image/Gadget-Cabinet.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  },
+  {
+    "id": 16,
+    "name": "Wooden Stack Coffee Set",
+    "price": 112.00,
+    "category": "sets",
+    "img": "Image/Coffee-set.jpg",
+    "description": "Auctor eros suspendisse tellus venenatis sodales purus non pellentesque amet, nunc sit eu enim fringilla egestas pulvinar odio feugiat consectetur egestas magna pharetra cursus risus, lectus enim et eget et lobortis faucibus."
+
+  }
+
+
+
+]

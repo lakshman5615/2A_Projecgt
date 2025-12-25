@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- ICONS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
+
+  <!-- FONTS -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Lexend:wght@700&display=swap" rel="stylesheet">
+
+  <!-- BOOTSTRAP -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- CSS -->
+   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="stylectus.css">
+
+  <link rel="icon" href="Image/logo.png.png">
+  <title>Contact Us - Office Furniture Store</title>
+</head>
+
+<body>
+
+<section id="about-us-section">
+
+  <!-- HEADER -->
+  <header class="main-header">
+    <div class="header-inner">
+
+      <div class="header-left">
+        <div class="logo-wrap">
+          <a href="index.html">
+            <img src="Image/site-logo-light.svg" alt="Logo">
+          </a>
+        </div>
+
+        <div class="left-nav">
+          <div class="nav-inner">
+            <a class="menu-link" href="store.html">Store</a>
+            <a class="menu-link" href="office.html">Office</a>
+            <a class="menu-link" href="home_office.html">Home Office</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="header-right">
+        <a class="menu-link" href="about.html">About</a>
+        <a class="menu-link" href="contact.html">Contact</a>
+
+        <div class="search-wrap">
+          <input type="text" placeholder="Search products...">
+        </div>
+
+        <div class="cart-wrap">
+  <button class="btn position-relative" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart">
+    <i class="bi bi-basket2-fill fs-4"></i>
+    <span id="offcanvasCartCount" class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger"></span>
+  </button>
+</div>
+
+        
+      </div>
+
+    </div>
+  </header>
+
+  <!-- ABOUT OVERLAY CONTENT -->
+  <div class="about-overlay">
+
+    <div id="about-us-heading">
+      <h1>Contact Us</h1>
+    </div>
+
+    <div id="about-us-content">
+      <div class="yellow-line"></div>
+      <p>
+        Porta tellus suscipit eget arcu eu nec quis scelerisque nam vitae,
+        turpis integer iaculis tristique vivamus mattis egestas.
+      </p>
+    </div>
+
+  </div>
+
+</section>
+<section class="map-section">
+  <div class="map-overlay">
+    <h2>San Francisco</h2>
+
+  </div>
+
+  <iframe
+    src="https://www.google.com/maps?q=San+Francisco,California,USA&output=embed"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</section>
+
+
+<section class="contact-section">
+  <div class="contact-inner">
+
+    <!-- LEFT -->
+    <div class="contact-left">
+      <h2>Get in touch</h2>
+
+      <div class="contact-block">
+        <i class="bi bi-geo-alt-fill"></i>
+        <div>
+          <h6>Address</h6>
+          <p>123 Demo St, San Francisco, CA 45678, United States</p>
+        </div>
+      </div>
+
+      <div class="divider"></div>
+
+      <h3>Customer service</h3>
+      <p class="desc">
+        Diam id quis quam pulvinar sodales fermentum, elit risus tristique
+        praesent sit dictumst vel amet.
+      </p>
+
+      <ul class="contact-list">
+        <li><i class="bi bi-telephone-fill"></i> +1 123-456-7890</li>
+        <li><i class="bi bi-envelope-fill"></i> mail@example.com</li>
+        <li><i class="bi bi-clock-fill"></i> 08.00 – 16.00 EST</li>
+      </ul>
+    </div>
+
+    <!-- RIGHT -->
+    <div class="contact-right">
+      <div class="yellow-line"></div>
+
+      <form id="contactForm" novalidate>
+
+        <div class="field">
+          <label>Name <span>*</span></label>
+          <input type="text" id="name">
+          <small class="error">This field is required.</small>
+        </div>
+
+        <div class="field">
+          <label>Email <span>*</span></label>
+          <input type="email" id="email">
+          <small class="error">Please enter a valid email address.</small>
+        </div>
+
+        <div class="field">
+          <label>Comment or Message <span>*</span></label>
+          <textarea id="message"></textarea>
+          <small class="error">This field is required.</small>
+        </div>
+
+        <button type="submit" id="submitBtn">Submit</button>
+
+      </form>
+    </div>
+
+  </div>
+</section>
+
+
+<section class="ctf-section">
+  <div class="ctf-overlay">
+    <div class="ctf-inner">
+      <div class="ctf-content">
+
+        <span class="ctf-tag">CUSTOM SETUPS</span>
+
+        <h1>
+          Let’s build your dream<br>
+          working space
+        </h1>
+
+        <a href="#" class="ctf-btn">
+          Shop Now <span>→</span>
+        </a>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+  <footer class="footer-section">
+    <div class="container">
+      <div class="row gy-4">
+
+        <!-- LOGO + SOCIAL -->
+        <div class="col-lg-3 col-md-6">
+          <div class="footer-brand">
+            <div class="logo">
+
+              <span>
+                <img src="Image/site-logo-dark.svg" alt="">
+              </span>
+            </div>
+
+            <div class="social-icons">
+              <span class="social-icon">
+                <img src="Image/facebook (1).png" alt="facebook">
+              </span>
+              <span class="social-icon">
+                <img src="Image/twitter.png" alt="twitter">
+              </span>
+              <span class="social-icon">
+                <img src="Image/instagram.png" alt="instagram">
+              </span>
+              <span class="social-icon">
+                <img src="Image/media.png" alt="youtube">
+              </span>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- ABOUT -->
+        <div class="col-lg-3 col-md-6">
+          <h5>About Us</h5>
+          <ul>
+            <li>About Us</li>
+            <li>Contact Us</li>
+            <li>Careers</li>
+            <li>Customer Support</li>
+          </ul>
+        </div>
+
+        <!-- CATEGORIES (WORKING LINKS) -->
+        <div class="col-lg-3 col-md-6">
+          <h5>Categories</h5>
+          <ul>
+            <li><a href="#">Table</a></li>
+            <li><a href="#">Chairs</a></li>
+            <li><a href="#">Cabinets</a></li>
+            <li><a href="#">Laptop Stands</a></li>
+          </ul>
+        </div>
+
+        <!-- INFORMATION -->
+        <div class="col-lg-3 col-md-6">
+          <h5>Information</h5>
+          <ul>
+            <li>FAQs</li>
+            <li>Refund Policy</li>
+            <li>Privacy Policy</li>
+            <li>Terms & Conditions</li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- BOTTOM LINE -->
+    <hr class="footer-line">
+    <div class="footer-bottom">
+      Copyright © 2025 Office Furniture Store
+    </div>
+  </footer>
+
+<script>
+const form = document.getElementById("contactForm");
+const btn = document.getElementById("submitBtn");
+
+form.addEventListener("submit", function (e) {
+  e.preventDefault();
+
+  let valid = true;
+
+  const name = document.getElementById("name");
+  const email = document.getElementById("email");
+  const message = document.getElementById("message");
+
+  clearErrors();
+
+  // Name validation
+  if (name.value.trim() === "") {
+    showError(name);
+    valid = false;
+  }
+
+  // Email validation
+  if (!email.value.match(/^\S+@\S+\.\S+$/)) {
+    showError(email);
+    valid = false;
+  }
+
+  // Message validation
+  if (message.value.trim() === "") {
+    showError(message);
+    valid = false;
+  }
+
+  // If all valid
+  if (valid) {
+    btn.innerText = "Sending...";
+    btn.disabled = true;
+
+    setTimeout(() => {
+      alert("Thanks for contacting us! We will be in touch with you shortly.");
+      form.reset();
+      btn.innerText = "Submit";
+      btn.disabled = false;
+    }, 2000);
+  }
+});
+
+function showError(el) {
+  el.classList.add("error-border");
+  el.nextElementSibling.style.display = "block";
+}
+
+function clearErrors() {
+  document.querySelectorAll(".error").forEach(err => err.style.display = "none");
+  document.querySelectorAll("input, textarea").forEach(el =>
+    el.classList.remove("error-border")
+  );
+}
+</script>
+
+
+
+</body>
+</html>
